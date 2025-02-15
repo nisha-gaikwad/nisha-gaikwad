@@ -26,6 +26,8 @@
 📚 Currently exploring **MVC** to enhance my skills.
 
 ---
+## 🛠 **Tech Stack**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=csharp,html,css,js,bootstrap" />
 </p>
