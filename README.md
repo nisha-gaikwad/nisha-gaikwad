@@ -1,45 +1,59 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Nisha Gaikwad</h1>
-<h3 align="center">A passionate  web- developer </h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjivanipatil16" alt="sanjivanipatil16" /></a> </p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  Hey there, I'm Nisha Gaikwad! 🚀
+</h1>
 
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7768E&size=25&center=true&vCenter=true&lines=C%23+Backend+Developer;ASP.NET+Core+Enthusiast;SQL+Database+Expert;Passionate+Problem+Solver" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisha-gaikwad&label=Profile%20views&color=0e75b6&style=flat" alt="nisha-gaikwad" /> </p>
 
-- 🌱 I’m currently learning ** c# ,SQL, Asp.net,html,css,javascript**
+---
 
-- 📫 How to reach me **gaikwadnisha543@gmail.com**
-- Linkedin profile:- linkedin.com/in/nisha-gaikwad-a90298229
+## 🎯 **About Me**
+🌟 A passionate **C# Developer** who loves creating robust back-end systems and interactive front-end applications.  
+💡 I enjoy tackling challenging problems, writing optimized code, and building scalable solutions.  
+⚡ Experienced in ** C#, Html, CSS, javascript, Asp.net, SQL**.  
+📚 Currently exploring **MVC** technologies to enhance my skills.
 
+---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=csharp,html,css,js,bootstrap" />
+</p>
+<p align="center">
   
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+## 🚀 **What I Do**
+
+-💻 **Languages:** C#| JavaScript,SQL, HTML,CSS
+-⚙ **Backend:** ASP.NET
+-🗄 **Database:** SQL, Server, MySQL
+-🎨 **Frontend:** HTML5, CSS3, Bootstrap
+-🔍 **Currently Learning:** Advanced in C# concepts, API development, and system design.
+
+---
+
+## 🌱 **What I'm Learning**
+
+🔹 Advanced Topic in .net  
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 📫 **Let's Connect!**
+<p align="center">
+  <a href="https://www.linkedin.com/in/nisha-gaikwad29" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/nisha-gaikwad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nisha-gaikwad&show_icons=true&locale=en" alt="nisha-gaikwad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisha-gaikwad&" alt="nisha-gaikwad" /></p>
-
-
-
-
-<!--
-**nisha-gaikwad/nisha-gaikwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
