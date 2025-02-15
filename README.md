@@ -15,7 +15,7 @@
 🌟 A passionate **C# Developer** who loves creating robust back-end systems and interactive front-end applications.  
 💡 I enjoy tackling challenging problems, writing optimized code, and building scalable solutions.  
 ⚡ Experienced in ** C#, Html, CSS, javascript, Asp.net, SQL**.  
-📚 Currently exploring **MVC** technologies to enhance my skills.
+📚 Currently exploring **MVC** to enhance my skills.
 
 ---
 <p align="center">
