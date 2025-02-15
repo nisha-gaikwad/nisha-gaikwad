@@ -2,12 +2,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
   Hey there, I'm Nisha Gaikwad! 🚀
 </h1>
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F7768E&size=25&center=true&vCenter=true&lines=C%23+Backend+Developer;ASP.NET+Core+Enthusiast;SQL+Database+Expert;Passionate+Problem+Solver" />
 </p>
+----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=nisha-gaikwad" alt="nisha-gaikwad" /></a>
+</p>
 
+---
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=nisha-gaikwad&label=Profile%20views&color=0e75b6&style=flat" alt="nisha-gaikwad" /> 
+</p>
 
 ---
 
